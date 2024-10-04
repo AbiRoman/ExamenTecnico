@@ -1,4 +1,4 @@
-1. Django
+Django
 
 ¿Qué es Django y por qué se usa?
 
