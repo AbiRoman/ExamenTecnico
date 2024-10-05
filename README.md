@@ -1,2 +1,4 @@
 # ExamenTecnico
-Buenas tardes estas son las respuestas para el examen tecnico de desarrollador junior
+Nombre. Abigail Esmeralda Román Campos
+Buenas a continuación explicare detalladamente este repositorio
+1. Dentro del main se encuentran varios archivos, este es el instructor de como encontrarán las resppuestas
